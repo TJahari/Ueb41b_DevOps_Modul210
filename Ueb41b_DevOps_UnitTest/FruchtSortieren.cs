@@ -8,6 +8,7 @@ namespace Ueb41b_DevOps_UnitTest
     [TestClass]
     public class FruchtSortieren
     {
+        // Testet , ob die Früchte korrekt sortiert werden
         [TestMethod]
         public void TestMethod1()
         {
