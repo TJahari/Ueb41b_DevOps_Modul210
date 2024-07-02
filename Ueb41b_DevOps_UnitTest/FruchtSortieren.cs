@@ -4,6 +4,7 @@ using Ueb08d_Sortieren_Fruechte;
 
 namespace Ueb41b_DevOps_UnitTest
 {
+    // Testklasse
     [TestClass]
     public class FruchtSortieren
     {
