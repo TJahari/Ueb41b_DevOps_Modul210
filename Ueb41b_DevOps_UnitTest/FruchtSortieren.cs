@@ -31,6 +31,7 @@ namespace Ueb41b_DevOps_UnitTest
             // Sortieren aufsteigend
             fruechte.Sort(new PreisComparer());
 
+            // Hier ist ein foreach
             int idx = 0;
             foreach (var f in fruechte)
             {
