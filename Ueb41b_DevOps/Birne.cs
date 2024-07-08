@@ -1,6 +1,6 @@
 ﻿namespace Ueb08d_Sortieren_Fruechte
 {    
-    // Klasse Birne und Gugus
+    // Klasse Birne
     public class Birne : Frucht
     {
     }
